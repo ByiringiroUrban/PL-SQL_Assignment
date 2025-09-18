@@ -1,3 +1,11 @@
+
+# Names: 
+## Byiringiro Urbain Bobola 27150
+## Serutamba heritier 27141
+## Mwungeri Bonheur 29337
+## Gakiza Lievin     28391
+
+
 -- 1. students
 CREATE TABLE students (
   student_id   SERIAL PRIMARY KEY,
