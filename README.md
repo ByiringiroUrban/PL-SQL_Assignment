@@ -59,5 +59,5 @@ The project uses **three tables**:
 ### 2. Steps
 1. Create a new database:
    ```sql
-   CREATE DATABASE testdb;
+   CREATE DATABASE dbname;
 
