@@ -3,7 +3,7 @@
 ## Byiringiro Urbain Bobola 27150
 ## Serutamba heritier 27141
 ## Mwungeri Bonheur 29337
-## Gakiza Lievin     28391
+
 
 
 -- 1. students
